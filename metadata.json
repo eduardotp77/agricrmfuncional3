@@ -1,0 +1,9 @@
+{
+  "name": "AgriCRM Institucional B2B Funcional 3",
+  "description": "Version funcional muy alineada al negocio, casos de uso, modelo del negocio.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
